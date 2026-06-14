@@ -20,8 +20,6 @@
 ---
 
 - 👨‍💻 Como estudiante de Ingeniería de Sistemas e Informática, con experiencia en desarrollo web, gestión de bases de datos y soporte TIC, siempre busco aprender y mejorar mis habilidades.
-- 💬 Pregúntame sobre mi experiencia en SQL Server, desarrollo web (HTML, CSS, C++), y gestión de infraestructura TIC.
-- 🌱 Actualmente estoy profundizando en _[Ciberseguridad y Pentesting Web](https://www.fiis.uni.edu.pe/)_ y en el fortalecimiento de mis competencias en _Bases de Datos_ y _Desarrollo de Software_.
 
 ## 🛠 &nbsp;Bloque Tegnológico
 
