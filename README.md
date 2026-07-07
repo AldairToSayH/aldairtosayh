@@ -40,7 +40,7 @@
 
 ## Sobre mí
 
-Soy **Aldair Zavala Huacarpuma**, estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Continental**.
+Soy **Aldair Zavala Huacarpuma**, estudiante de **Ingeniería de Sistemas e Informática** **de noveno semestre**.
 
 Me enfoco en **desarrollo web full stack**, **bases de datos**, **redes**, **ciberseguridad** e **inteligencia artificial aplicada**. Me gusta construir proyectos reales con estructura clara, buena lógica, diseño funcional y visión de producto.
 
