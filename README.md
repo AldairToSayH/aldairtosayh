@@ -319,8 +319,6 @@ abierto_a:
 
 <div align="center">
 
-<strong>Construyo software con propósito: claro, útil y mantenible.</strong>
-
 <br/>
 <br/>
 
