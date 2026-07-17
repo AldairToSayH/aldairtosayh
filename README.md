@@ -120,7 +120,7 @@ Plataforma web para moda andina premium con roles de comprador y vendedor, catá
 | Stack | React, Astro, Tailwind CSS, TypeScript, Node.js, Express, PostgreSQL |
 | Enfoque | E-commerce, arquitectura desacoplada, roles y experiencia de usuario |
 | Impacto | Proyecto principal con visión de producto real |
-| Repositorio | [AldairToSayH/apuluxury](https://github.com/AldairToSayH/apuluxury) |
+| Organización | [AldairToSayH/apuluxury](https://github.com/apu-luxury) |
 
 </details>
 
